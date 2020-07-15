@@ -1,0 +1,7 @@
+CreditCardApproval - crossvalidation: Se encuentra el codigo randomforest acompanado de crossvalidation
+CreditCardApproval - original: Se encuentra codigo orininal de la entrega 2
+CreditCardApproval - kmeans: Se encuentra el codigo del k means con los K solicitados por el profesor
+Pruebas : Se encuentran los datos medidos por todos los codigos(cuanto demora RF con y sin Crossvalidation
+ y la agrupacion de los clusters en K means , ademas la tabla de colores utilizadas para los clusters)
+ CienciaDeDatosP1-final: Es el informe del trabajo
+default of credit card client: Es el data set del trabajo

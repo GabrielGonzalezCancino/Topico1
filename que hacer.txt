@@ -1,0 +1,5 @@
+Crossvalidation
+usar de randomforest de 5 a 50 (de 5 en 5) ver resultado respecto al crossvalidation
+
+k =5 en vez de 30 probar el k means
+probar 1,3 y 5 el num de vecinos cercanos (l clusters)
